@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.1.0.0"
-    CreationTime="2023-08-24 11:45:07 (UTC)"
+    CreationTime="2023-08-25 18:08:35 (UTC)"
     Runtime="COLORADO"
     RtProjectName="almacen_V16.Estación PC[SIMATIC PC station - WinCC RT Advanced]"
     RtProjectFolderName="almacen_V16.Estación PC[SIMATIC PC station - WinCC RT Advanced]"
@@ -20,4 +20,6 @@
     type="ADMINDATA">pdata.pwx</FullDownload>
   <FullDownload>pdata.tfz</FullDownload>
   <FullDownload>ProjectSettings.hsf</FullDownload>
+  <License
+    type="WCRT011500">WinCC RT Advanced (128)</License>
 </DownloadTask>
